@@ -12,6 +12,10 @@
     - In Tailscale you need to be "connected" to connect to the server. this wont effect anything else on your computer, but if you want, you can disconnect when not in use ![alt text](image-2.png)
 2. Download and Install ATM10 
     > Starting on Version 2.6
+3. Connect to the server
+    - ![image](https://github.com/user-attachments/assets/2d3d7028-0858-4881-8931-a06d28a61042)
+    - In My Devices you should see my server, and be able to copy the address
+
 
 
 ## Server Install Notes
